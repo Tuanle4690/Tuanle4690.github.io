@@ -46,7 +46,7 @@ tick();
 
 function TikTok() {
     setTimeout(function() {
-            window.open('https://www.tiktok.com/@kophaituan09, 'ultimate')
+            window.open('https://www.tiktok.com/@kophaituan09', 'ultimate')
         },
         100);
 }
